@@ -1,0 +1,15 @@
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/bin/Debug/net6.0/Crawler
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/bin/Debug/net6.0/Crawler.deps.json
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/bin/Debug/net6.0/Crawler.runtimeconfig.json
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/bin/Debug/net6.0/Crawler.dll
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/bin/Debug/net6.0/Crawler.pdb
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/Crawler.csproj.AssemblyReference.cache
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/Crawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/Crawler.AssemblyInfoInputs.cache
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/Crawler.AssemblyInfo.cs
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/Crawler.csproj.CoreCompileInputs.cache
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/Crawler.dll
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/refint/Crawler.dll
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/Crawler.pdb
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/Crawler.genruntimeconfig.cache
+/Users/seweryn.plazuk/Dev/PJATK/APBD/Crawler/obj/Debug/net6.0/ref/Crawler.dll
